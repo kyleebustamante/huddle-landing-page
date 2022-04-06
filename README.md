@@ -28,4 +28,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kyleebustamante/huddle-landing-page](https://github.com/kyleebustamante/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://gentle-empanada-43422b.netlify.app/](https://gentle-empanada-43422b.netlify.app/)
